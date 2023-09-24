@@ -1,6 +1,6 @@
 # Muhammad-Anas
 Hello folks 👋
-- 🔭 I’m currently working on MERN Stack.
+- 🔭 I’m currently working on Data Analytics.
 - 🤿 I'm currently learning Data Analytics and AI.
 - 🎎 We can talk about **Web** **Development** and **AI**, always love to hear and share :)
 - ⚽ I love to play and analyze Football, also a Big fan of History Documentries.
